@@ -3,4 +3,5 @@
  ls
  ls -l
  ls -l/opt
+
  # this  script will execute all these commands one by one
