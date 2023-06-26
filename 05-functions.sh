@@ -9,7 +9,7 @@ xyz() {
   b=200
 }
 ##call a function
-a=150
+a=150 ## declaring before function call
 xyz 123 456
 
 echo value of b = ${b}
