@@ -9,6 +9,7 @@ xyz() {
   b=200
 }
 ##call a function
-xyz 123 456
 a=150
+xyz 123 456
+
 echo value of b = ${b}
