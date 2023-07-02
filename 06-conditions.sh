@@ -5,7 +5,7 @@ if [ "${number}" -eq 5 ]; then #then can go in next line ,also ; is also fine in
   echo "The number is 5"
 fi
 
-if [ "${string}" == abc]; then
+if [ "${string}" == abc ]; then
   echo "String is abc"
 fi
 
